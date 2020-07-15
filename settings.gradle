@@ -1,0 +1,2 @@
+rootProject.name='Chatting Apps'
+include ':app'
